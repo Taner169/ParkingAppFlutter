@@ -15,13 +15,6 @@ Detta är den fjärde delen i parkeringssystemet. Appen är byggd med Flutter oc
 - 🔁 Logout-funktion
 - 🧪 BLoC-test med `bloc_test` och `mocktail`
 
-## 🏆 VG-kriterium
-
-Utöver mörkt/ljust tema har jag implementerat:
-
-- 🔍 **Sökfunktion** i listor
-- ✏️ **Redigering av data (CRUD)** i appen
-
 ## 🚀 Kom igång
 
 ```bash
