@@ -1,0 +1,8 @@
+.dart_tool/
+build/
+.idea/
+.flutter-plugins
+flutter_export_environment.sh
+macos/Flutter/ephemeral/
+ios/Flutter/ephemeral/
+ios/Pods/
